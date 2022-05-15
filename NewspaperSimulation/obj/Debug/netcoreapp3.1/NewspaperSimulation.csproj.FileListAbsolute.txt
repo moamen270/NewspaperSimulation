@@ -1,0 +1,14 @@
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\bin\Debug\netcoreapp3.1\NewspaperSimulation.exe
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\bin\Debug\netcoreapp3.1\NewspaperSimulation.deps.json
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\bin\Debug\netcoreapp3.1\NewspaperSimulation.runtimeconfig.json
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\bin\Debug\netcoreapp3.1\NewspaperSimulation.runtimeconfig.dev.json
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\bin\Debug\netcoreapp3.1\NewspaperSimulation.dll
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\bin\Debug\netcoreapp3.1\NewspaperSimulation.pdb
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\obj\Debug\netcoreapp3.1\NewspaperSimulation.csproj.AssemblyReference.cache
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\obj\Debug\netcoreapp3.1\NewspaperSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\obj\Debug\netcoreapp3.1\NewspaperSimulation.AssemblyInfoInputs.cache
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\obj\Debug\netcoreapp3.1\NewspaperSimulation.AssemblyInfo.cs
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\obj\Debug\netcoreapp3.1\NewspaperSimulation.csproj.CoreCompileInputs.cache
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\obj\Debug\netcoreapp3.1\NewspaperSimulation.dll
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\obj\Debug\netcoreapp3.1\NewspaperSimulation.pdb
+C:\Users\mmoam\source\repos\NewspaperSimulation\NewspaperSimulation\obj\Debug\netcoreapp3.1\NewspaperSimulation.genruntimeconfig.cache
